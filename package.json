@@ -8,7 +8,7 @@
     "gk": "bin.js"
   },
   "bugs": {
-    "url": "https://github.com/greenkeeperio/greenkeeper/issues"
+    "url": "https://github.com/greenkeeperio/cli/issues"
   },
   "dependencies": {
     "opener": "^1.4.3"
@@ -29,7 +29,7 @@
   "preferGlobal": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/greenkeeperio/greenkeeper.git"
+    "url": "https://github.com/greenkeeperio/cli.git"
   },
   "scripts": {
     "test": "standard",
