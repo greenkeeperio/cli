@@ -1,5 +1,7 @@
 # Greenkeeper CLI
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/greenkeeperio/cli.svg)](https://greenkeeper.io/)
+
 > 🚨 Deprecated
 
 Go to https://github.com/integration/greenkeeper to install Greenkeeper on your
